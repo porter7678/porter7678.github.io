@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Computer Vision LEGO Sorting Machine](/sample_page)
 <img src="images/garcia_lego_machine.jpeg?raw=true"/>
 
 ---
 [Discovery and Scaling of Text Models for Authorship Attribution](/pdf/summer_slam.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/summer_slam_title_page.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
