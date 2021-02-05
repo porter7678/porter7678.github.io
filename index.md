@@ -12,8 +12,8 @@
 <img src="images/summer_slam_title_page.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Bees Needs - Modeling Factors Affecting US Bee Population](/pdf/The_Bees_Needs.pdf)
+<img src="images/beehive.jpg?raw=true"/>
 
 
 ---
